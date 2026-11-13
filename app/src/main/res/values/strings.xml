@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Orvex Browser</string>
+    <string name="address_hint">Ara veya adres yaz</string>
+    <string name="action_back">Geri</string>
+    <string name="action_forward">İleri</string>
+    <string name="action_reload">Yenile</string>
+    <string name="action_stop">Durdur</string>
+    <string name="action_home">Ana sayfa</string>
+    <string name="icon_secure">Güvenli bağlantı</string>
+    <string name="icon_not_secure">Güvenli olmayan bağlantı</string>
+</resources>
