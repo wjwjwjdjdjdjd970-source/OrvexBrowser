@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Orvex Browser</string>
+    <string name="app_name">Orvex V2</string>
     <string name="address_hint">Ara veya adres yaz</string>
     <string name="action_back">Geri</string>
     <string name="action_forward">İleri</string>
